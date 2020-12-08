@@ -34,8 +34,10 @@ Other packages installed by pip.
 ```bash
 git clone https://github.com/zhangqianhui/GazeAnimation.git
 cd GazeAnimation
-
+git checkout GazeAnimationV2
 ```
+
+
 - Download the CelebAGaze dataset
 
   Download the tar of CelebAGaze dataset from [Google Driver Linking](https://drive.google.com/file/d/1_6f3wT72mQpu5S2K_iTkfkiXeeBcD3wn/view?usp=sharing).
@@ -44,10 +46,20 @@ cd GazeAnimation
   cd your_path
   tar -xvf CelebAGaze.tar
   ```
+  
+- Download the CelebAHQGaze dataset
+
+Download the tar of CelebHQAGaze dataset from [Google Driver Linking](https://drive.google.com/file/d/1Q7iOc3ZWnyld2fbw6yYR0EIkF0m0FERN/view?usp=sharing).
+
+```bash
+cd your_path
+tar -xvf CelebAHQGaze.tar
+```
+
 
 ## Experiment Result 
 
-### Gaze Correction
+### Gaze Correction on CelebAHQGaze
 
 <p align="center"><img width="100%" src="img/correction.jpg" /></p>
 
