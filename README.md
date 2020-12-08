@@ -9,9 +9,9 @@
 
 ## Network Architecture
 
-![](img/model.jpg)
+![](img/model1.PNG)
 
-![](img/model2.jpg)
+![](img/model2.PNG)
 
 ## Dependencies
 
@@ -49,7 +49,7 @@ cd GazeAnimation
 
 ### Gaze Correction
 
-<p align="center"><img width="100%" src="img/correction.png" /></p>
+<p align="center"><img width="100%" src="img/correction.jpg" /></p>
 
 # Related works
 
